@@ -1,4 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drominito&show_icons=true&theme=tokyonight)
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drominito&layout=compact"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Drominito&show_icons=true&theme=transparent"/>
+
 
 # Hi Folks :D 👋
 
@@ -20,6 +22,10 @@ Programmers: (C# || C++) || (C# && C++)
 ## Some Info's about me
 
 Working currently on `BetterPaint` & `Upscale-Pixels` (Well, but actually it's the same Project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Drominito&repo=BetterPaint)](https://github.com/Drominito/BetterPaint)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Drominito&repo=Upscale-Pixels)](https://github.com/Drominito/Upscale-Pixels)
+
+
 -  learning C#, WPF, Bitmaps and Math
 
 ## Small Personal Info's
