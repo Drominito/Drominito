@@ -1,30 +1,36 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drominito&show_icons=true&theme=tokyonight)
+
+# Hi Folks :D 👋
+
+Since at 14.7.2022(Europe-Date-Syntax) had i begun to learn C#.
+
+Here you'll find about `Bitmaps (Currently)`, `Graphical-Programming`, Normal `WPF Programs` also somewhat with `Audio`, and later Some `Simulations` the theme about Game-Dev will i begin in `few years²`.
+
+In `few years` I would like to switch from C# to C++, to have more Controll about the Hardware, have faster Program, want also make purposeful an Game Engine and because i like Low Level Languages.
 
 
-**Drominito/Drominito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Loking for
 
-Here are some ideas to get you started:
+Artits that use active (Aseprite, Blender, Krita(or Fimilar))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Komponist that make Songs like me. (I'll use in around winter FL Studio, now i make Songs only with my E-Piano)
 
+Programmers: (C# || C++) || (C# && C++)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## Some Info's about me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+Working currently on `BetterPaint` & `Upscale-Pixels` (Well, but actually it's the same Project)
+-  learning C#, WPF, Bitmaps and Math
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## Small Personal Info's
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+Contact: Discord: Drominito1010 || Drominito1511
 
+* Male | `Pegi 16` Years Old
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-
+- ⚡ Fun fact: Im a:
+               Live Long Learner
+               Make own Songs on Piano
+               Use somethimes Blender and Aseprite
+               Average WPM: 75
+               Creating > Gaming (Makes for me more fun)
