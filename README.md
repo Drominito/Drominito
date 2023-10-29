@@ -34,9 +34,10 @@ Contact: Discord: Drominito1010 || Drominito1511
 
 * Male | `Pegi 16` Years Old
 
-- ⚡ Fun fact: Im a:
-               Live Long Learner
-               Make own Songs on Piano
-               Use somethimes Blender and Aseprite
-               Average WPM: 75
-               Creating > Gaming (Makes for me more fun)
+⚡ Fun fact:
+
+* Im a Live Long Learner
+* Make own Songs on Piano
+* Use somethimes Blender and Aseprite
+* Average WPM: 75
+* Creating > Gaming (Makes for me more fun)
