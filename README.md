@@ -5,10 +5,11 @@
 # Hi Folks :D 👋
 
 Since at 14.7.2022(Europe-Date-Syntax) had i begun to learn C#.
+And now i recently started on around 27.11.2023 to learn C++ :D.
 
-Here you'll find about `Bitmaps (Currently)`, `Graphical-Programming`, Normal `WPF Programs` also somewhat with `Audio`, and later Some `Simulations` the theme about Game-Dev will i begin in `few years²`.
+Here you'll find about `Bitmaps (Currently)`, `Graphical-Programming`, Normal `WPF Programs` also somewhat with `Audio`, and later Some `Simulations` the theme about Game-Dev will i begin in `few years`.
 
-In `few years` I would like to switch from C# to C++, to have more Controll about the Hardware, have faster Program, want also make purposeful an Game Engine and because i like Low Level Languages.
+I decided learn C++ to have more Controll about the Hardware, have faster Program, want also make purposeful an Game Engine and because i like Low Level Languages.
 
 
 ## Loking for
@@ -21,14 +22,19 @@ Programmers: (C# || C++) || (C# && C++)
 
 ## Some Info's about me
 
-Working currently on `BetterPaint` & `Upscale-Pixels` (Well, but actually it's the same Project)
+Now im learning just the basics from C++ and then from other Grafik-API's, first i will start with OpenGL.
+
+
+These 2 Projects was made with C#, and i dont know when ill work with them again.
+I think i would some day recreate it on C++ and expand the Project further.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Drominito&repo=BetterPaint)](https://github.com/Drominito/BetterPaint)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Drominito&repo=Upscale-Pixels)](https://github.com/Drominito/Upscale-Pixels)
 
 
--  learning C#, WPF, Bitmaps and Math
+
 
 ## Small Personal Info's
+
 
 Contact: Discord: Drominito1010 || Drominito1511
 
@@ -36,8 +42,11 @@ Contact: Discord: Drominito1010 || Drominito1511
 
 ⚡ Fun fact:
 
+* I'm a perfectionist
+* Likes Math
+* Very Patient Person
 * Im a Live Long Learner
 * Make own Songs on Piano
 * Use somethimes Blender and Aseprite
 * Average WPM: 75
-* Creating > Gaming (Makes for me more fun)
+* Creating > Gaming (Makes more fun)
