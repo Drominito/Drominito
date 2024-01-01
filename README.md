@@ -9,7 +9,7 @@ And now i recently started on around 27.11.2023 to learn C++ :D.
 
 Here you'll find about `Bitmaps (Currently)`, `Graphical-Programming`, Normal `WPF Programs` also somewhat with `Audio`, and later Some `Simulations` the theme about Game-Dev will i begin in `few years`.
 
-I decided learn C++ to have more Controll about the Hardware, have faster Program, want also make purposeful an Game Engine and because i like Low Level Languages.
+I decided learn C++ to have more Controll about the Hardware, have faster Program, want also make purposeful an Game Engine (OpenGL / Vulcan) and because i like Low Level Programming.
 
 
 ## Loking for
