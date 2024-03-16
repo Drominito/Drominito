@@ -44,7 +44,7 @@ Contact: Discord: Drominito1010 || Drominito1511
 ⚡ Fun fact:
 
 * I'm a perfectionist
-* Likes Math
+* Like Math
 * Very Patient Person
 * Im a Live Long Learner
 * Make own Songs on Piano
