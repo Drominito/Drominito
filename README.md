@@ -43,6 +43,7 @@ Contact: Discord: Drominito1010 || Drominito1511
 
 ⚡ Fun fact:
 
+* The solution doesn't interest me, but the reason does.
 * I'm a perfectionist
 * Like Math
 * Very Patient Person
