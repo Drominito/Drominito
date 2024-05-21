@@ -56,5 +56,5 @@ Contact: Discord: Drominito1010 || Drominito1511
   -- --
 
   # Here is my Discord Activity (Mostly in the time i'm set offline):
-[![Discord Presence](https://lanyard.cnrad.dev/api/907713492952428624)](https://discord.com/users/907713492952428624)
+[![Discord Presence](https://lanyard.cnrad.dev/api/694098137907724298)](https://discord.com/users/694098137907724298)
   
