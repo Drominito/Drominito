@@ -52,3 +52,9 @@ Contact: Discord: Drominito1010 || Drominito1511
 * Use somethimes Blender and Aseprite
 * Average WPM: 75
 * Creating > Gaming (Makes more fun)
+
+  -- --
+
+  # Here is my Discord Activity (Mostly in the time i'm set offline):
+[![Discord Presence](https://lanyard.cnrad.dev/api/907713492952428624)](https://discord.com/users/907713492952428624)
+  
