@@ -37,7 +37,9 @@ I think i would some day recreate it on C++ and expand the Project further.
 ## Small Personal Info's
 
 
-Contact: Discord: Drominito1010 || Drominito1511
+Contact:
+Discord: Drominito1010 || Drominito1511
+E-Mail : Drominito.Ketchup@gmail.com
 
 * Male | `Pegi 16` Years Old
 
