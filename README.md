@@ -18,7 +18,7 @@ Artits that use active (Aseprite, Blender, Krita(or Fimilar))
 
 Komponist that make Songs like me. (I'll use in around winter FL Studio, now i make Songs only with my E-Piano)
 
-Programmers: (C# || C++) || (C# && C++)
+Programmers: C/C++ || Rust
 
 ## Some Info's about me
 
@@ -52,7 +52,7 @@ E-Mail : Drominito.Ketchup@gmail.com
 * Im a Live Long Learner
 * Make own Songs on Piano
 * Use somethimes Blender and Aseprite
-* Average WPM: 75
+* Average WPM: 100
 * Creating > Gaming (Makes more fun)
 
   -- --
