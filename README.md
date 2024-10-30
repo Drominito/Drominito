@@ -91,9 +91,9 @@ But in some day i will rewrite it either in C# again or in C++
 ## Plan what i will learn.
 
  Concepts:
-    * Arch Linux
-    * C   standard-library
-    * C++ standard-library
+    * Arch Linux |
+    * C   standard-library |
+    * C++ standard-library |
     * WinAPI & SDL2
     
    Books about()
