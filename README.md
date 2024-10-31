@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=Drominito">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Drominito&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 <div style="display: flex; flex-direction: column; align-items: flex-end;">
     <img src="https://github-readme-stats.vercel.app/api?username=Drominito&show_icons=true&theme=transparent"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drominito&layout=compact"/>
@@ -19,7 +23,19 @@ I will use **OpenGL** at first and later **Vulkan**.
 **It's not because of performance. I just like the manuality in sense of having the power of controll**.
 
 But also some small Applications everyday life. (At the bottom you will find all the details)
+-- --
+# Tools i use
 
+
+## Proficient
+
+## Intermediate
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C/C++ Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim Logo" width="40" height="40" style="border-radius: 50%;" /> 
+
+## Beginner
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="CMake Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" alt="Clang Logo" width="40" height="40" style="border-radius: 50%;" />
+
+-- --
 ## Looking for -
 
 - Programmers: C/C++ && (I also would like to meet Rust Programmers)
