@@ -9,23 +9,23 @@
 
 # Hi Folks :D 👋
 
-I started learning C# since 14.7.2022. (Not more in use)
+My motto, of many others: Many things don't really need an introduction. Just dive in! (that's like an "theoretical learning by doing".)
+
+
+I started learning C# on 14.7.2022. (Not longer in use)
 Now I'm using **C++** since 27.11.2023.
 
-
-My learning style focuses on deep understanding, so new content appears here gradually.
-New code is added periodically.
+My learning style focuses on deep understanding, which is why new content and code are added gradually and periodically.
 At the moment, I am focusing more on theoretical concepts.
 
 
-After that my plan is to make various of scientific simulations and games.
-I will use **OpenGL** at first and later **Vulkan**.
-**It's not because of performance. I just like the manuality in sense of having the power of controll**.
+After that my plan is to make various scientific simulations and games.
+I will start with OpenGL and move on to Vulkan later — not for performance reasons, but because I value the manual control it provides.
 
-But also some small Applications everyday life. (At the bottom you will find all the details)
+But also some small applications everyday life. (Details can be found at the bottom)
 -- --
-# Tools i use
-
+# Tools I use
+[Info]: “Sorted by the best from left to right.”
 
 ## Proficient
 
@@ -38,104 +38,101 @@ But also some small Applications everyday life. (At the bottom you will find all
 -- --
 ## Looking for -
 
-- Programmers: C/C++ && (I also would like to meet Rust Programmers)
+- Programmers: C/C++ / Rust (but all others are also welcome!)
 
-- Game/App - Testers (I'm always grateful for testing feedback!)"
+- feedback from testers for my projects
 
 
 **Besides of Programming** there are some areas that are related to Game-Development
 
 - Digital 2D and 3D artists.
 
-- Composers/Musicians (like me): [Info] People who makes music with a mouse are less recognised
+- Composers/Musicians (like me): [Info] Respect for all, but I value crafting music with hands over clicking with a mouse.
 
 ## Small Personal Info's
 
+### Other
+* Male (obviously)
+* Unfortunately already 17 Years Old (Time is flying! D:)
 
 ### Contact:
-Discord: Drominito1010 || Drominito1511
+Discord: Drominito1010/Drominito1511
 E-Mail : Drominito.Ketchup@gmail.com
 
-Male | `Pegi 17` Years Old
-
 ### Fun fact:
-
-- Interested in the 'why' behind solutions  
+- I approach every problem by asking *why*, aiming to understand its core.  
 - Perfectionist and with a passion for math  
 - Patient, lifelong learner  
-- Piano composer and Blender/Aseprite enthusiast  
+- I'm a piano composer and love creating music intuitively.
+- Blender/Aseprite enthusiast  
 - Average typing speed: 100 WPM  
 - Creating > Gaming  
 - Saving the best for last!
--- --
-## Old Spagetti C# Code
 
-I wont change this here again and it's no longer maintained.
-But in some day i will rewrite it either in C# again or in C++
+
+
+-- --
+# Legacy C# Projects
+Although I don't maintain these anymore, they mark the start of my journey.
+Someday, I'll rewrite them in C++ or revisit them for inspiration.
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Drominito&repo=BetterPaint)](https://github.com/Drominito/BetterPaint)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Drominito&repo=Upscale-Pixels)](https://github.com/Drominito/Upscale-Pixels)
-
 -- --
 
-# Plan: Future Projects / Learning Path
 
-[Info]: It also has an order of what I start with first.
 
-## Brief overview of my Projects for the far future
+# Summary of my Learning Path
 
-### Simulations
-[Info]: This is only an example!
-
+## Simulations
 * Sound Engine
+* Fluid Engine
 * Bacteria
 * Physic Based Rendering (PBR)
 * Physics/Particle
 * Terrain & Procedual Assets generation
 * Gravitation & Planets/Galaxy/...
 
-### Everyday life Programs
+## Games (Only Properties)
+* Delivering the best difference so it becomes hard comparable with other games.
+* Putting big value in to story and Design Aesthetics
+* Even games with minimal graphics should still be enjoyable.
+* Commonly about Building/Crafting
+* Main Ideas are about Micro-Life-Survival and Space Games.
+
+## Everyday life Programs
 
 * Own Server/Pc/Mobile Data-Exchange
-* Automate things (Smarthome, Desktop, ...)
+* Automate things (Smarthome <-> Desktop, Smart Home, ...)
 
-### Other
+## Other
 
 * Embedded/Hardware Programming
 * AI (It is a suprise :D)
 
-## Plan what i will learn.
+## Future Learning Path.
 
- Concepts:
-    * Arch Linux |
-    * C   standard-library |
-    * C++ standard-library |
-    * WinAPI & SDL2
+### Tools:
+* All from "# Tools I use"
+* LaTeX
+* Docker
+
+### API's
+ * C   standard-library
+ * C++ standard-library
+ * WinAPI & SDL2
+ * CUDA
+
+
     
-   Books about()
-   { 
-        Linear Algebra,
-        Linux,
-        Vulkan,
-        Algorithms and Data Structures + Here at most from various Sources
-        Calculus,
-        Math Acoustics,
-        Waves and Vibrations,
-        Design and Psychology about it
-        Digital Signal Processing
-    }
-
-  Tools()
-  {
-    Vim,
-    CMake,
-    Git,
-    Docker,
-    LaTeX
-  }
-
--- --
-
-# Here is my Discord Activity (Mostly in the time i'm set offline):
-[![Discord Presence](https://lanyard.cnrad.dev/api/694098137907724298)](https://discord.com/users/694098137907724298)
-    
+### Books:
+* Much other Books (but they are about like Atonomy/Art, basic Physics, ...)
+* Linear Algebra
+* Linux
+* Vulkan
+* Algorithms and Data Structures + Here at most from various Sources
+* Calculus,
+* Math Acoustics,
+* Waves and Vibrations,
+* Design(Games, Coding, ..) || / && Psychology about it,
+* Digital Signal Processing
