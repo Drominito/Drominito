@@ -36,7 +36,7 @@ But also some small applications everyday life. (Details can be found at the bot
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="CMake Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" alt="Clang Logo" width="40" height="40" style="border-radius: 50%;" />
 
 -- --
-## Looking for -
+# Looking for -
 
 - Programmers: C/C++ / Rust (but all others are also welcome!)
 
@@ -49,17 +49,17 @@ But also some small applications everyday life. (Details can be found at the bot
 
 - Composers/Musicians (like me): [Info] Respect for all, but I value crafting music with hands over clicking with a mouse.
 
-## Small Personal Info's
+# Small Personal Info's
 
-### Other
+## Other
 * Male (obviously)
 * Unfortunately already 17 Years Old (Time is flying! D:)
 
-### Contact:
-Discord: Drominito1010/Drominito1511
+## Contact:
+Discord: Drominito1010/Drominito1511 |
 E-Mail : Drominito.Ketchup@gmail.com
 
-### Fun fact:
+## Fun fact:
 - I approach every problem by asking *why*, aiming to understand its core.  
 - Perfectionist and with a passion for math  
 - Patient, lifelong learner  
