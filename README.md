@@ -20,7 +20,7 @@ At the moment, I am focusing more on theoretical concepts.
 
 
 After that my plan is to make various scientific simulations and games.
-I will start with OpenGL and move on to Vulkan later — not for performance reasons, but because I value the manual control it provides.
+I decided to use Vulkan — not for performance reasons, but because I value the manual control it provides.
 
 But also some small applications everyday life. (Details can be found at the bottom)
 -- --
@@ -82,7 +82,7 @@ Someday, I'll rewrite them in C++ or revisit them for inspiration.
 
 
 
-# Summary of my Learning Path
+# ⚠️ Future Plans ⚠️
 
 ## Simulations
 * Sound Engine
@@ -120,7 +120,7 @@ Someday, I'll rewrite them in C++ or revisit them for inspiration.
 ### API's
  * C   standard-library
  * C++ standard-library
- * WinAPI & SDL2
+ * Wayland & SDL3
  * CUDA
 
 
