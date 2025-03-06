@@ -61,11 +61,10 @@ E-Mail : Drominito.Ketchup@gmail.com
 
 ## Fun fact:
 - I approach every problem by asking *why*, aiming to understand its core.  
-- Perfectionist and with a passion for math  
+- Balace perfectionism and pragmatism
 - Patient, lifelong learner  
 - I'm a piano composer and love creating music intuitively.
 - Blender/Aseprite enthusiast  
-- Average typing speed: 100 WPM  
 - Creating > Gaming  
 - Saving the best for last!
 
