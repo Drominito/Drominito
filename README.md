@@ -25,5 +25,5 @@ Transition from theory to practical systems programming.
 - Focused progress > scattered learning
 
 # Contact
-Discord: Drominito1511 |
-E-Mail : drominito@proton.me
+- Discord: Drominito1511
+- E-Mail : drominito@proton.me
