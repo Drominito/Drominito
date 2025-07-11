@@ -26,4 +26,4 @@ Transition from theory to practical systems programming.
 
 # Contact
 - Discord: Drominito1511
-- E-Mail : drominito@proton.me
+- E-Mail: drominito@proton.me
