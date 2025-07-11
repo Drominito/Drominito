@@ -4,7 +4,7 @@ The main topic is Graphics-Programming.
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes
 - [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer (in development)
 
-**Toolchain**: C | Linux | Make
+**Toolchain**: `C` | `Linux` | `Make`
 
 # Focus Areas
 - Linux DRM/KMS
