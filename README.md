@@ -8,8 +8,8 @@ Many other small projects will swiched to the [playGround](https://github.com/Dr
 **Toolchain**: `C` | `Linux` | `Make`
 
 # Focus Areas
-- Linux DRM/KMS
-- Terminal graphics (ncurses)
+- Terminal graphics (ncurses - for Prototypes)
+- Linux DRM/KMS (SDL alternative, not sure yet)
 
 # Journey
 ```diff
@@ -20,6 +20,8 @@ Many other small projects will swiched to the [playGround](https://github.com/Dr
 
 # Goal
 Transition from theory to practical systems programming.
+It could anyway still happen that I digress into other topics.
+My **Focus Areas** should help me to show where I am.
 
 # Principles
 - Synonym for Perfection is an Asymptote
