@@ -1,8 +1,9 @@
 The main topic is Graphics-Programming.
+Many other small projects will swiched to the [playGround](https://github.com/Drominito/playGround) repo soon.
 
 # Core Projects
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes
-- [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer (in development)
+- [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer (Project expected to start on August 25th-2025)
 
 **Toolchain**: `C` | `Linux` | `Make`
 
