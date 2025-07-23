@@ -1,5 +1,4 @@
 The main topic is Graphics-Programming.
-Many other small projects will swiched to the [playGround](https://github.com/Drominito/playGround) repo soon.
 
 # Core Projects
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes
