@@ -28,6 +28,6 @@ My **Focus Areas** should help me to show where I am.
 
 # Contact
 - Discord: Drominito1511
-- E-Mail: drominito@proton.me
+- [E-Mail](mailto:drominito@proton.me)
 
 ![](https://hit.yhype.me/github/profile?account_id=73790329)
