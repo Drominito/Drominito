@@ -8,7 +8,7 @@ The main topic is Graphics-Programming.
 
 # Focus Areas
 - Terminal graphics (ncurses - for Prototypes)
-- Linux DRM/KMS (SDL alternative, not sure yet)
+- Linux DRM/KMS(trial), then SDL3
 
 # Journey
 ```diff
