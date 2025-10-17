@@ -4,7 +4,7 @@ The main topic is Graphics-Programming.
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes, maybe easter-eggs too
 - [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer ( *start* shifted, other priorities)
 
-**Toolchain**: `C` | `Linux` | `Make`
+**Toolchain**: `C` | `GNU` | `Make`
 
 # Focus Areas
 - Terminal graphics (ncurses - for Prototypes)
@@ -14,7 +14,7 @@ The main topic is Graphics-Programming.
 ```diff
 - 14.07.2022: C# (WPF)
 - 27.11.2023: C++ 
-+ 18.01.2025: C & Arch-Linux
++ 18.01.2025: C & Arch GNU/Linux
 ```
 
 # Goal
