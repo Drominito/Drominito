@@ -7,7 +7,7 @@ The main topic is Graphics-Programming.
 **Toolchain**: `C` | `GNU`
 
 # Focus Areas
-- Terminal graphics (ncurses - for Prototypes)
+- Terminal graphics (Prototypes)
 - Linux DRM/KMS(trial), then SDL3
 
 # Journey
