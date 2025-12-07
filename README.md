@@ -4,7 +4,7 @@ The main topic is Graphics-Programming.
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes, maybe easter-eggs too
 - [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer ( *start* shifted, other priorities)
 
-**Toolchain**: `C` | `GNU` | `Make`
+**Toolchain**: `C` | `GNU`
 
 # Focus Areas
 - Terminal graphics (ncurses - for Prototypes)
