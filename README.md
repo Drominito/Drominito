@@ -1,4 +1,4 @@
-⁸The long-term tendency is Graphics Programming, even when nothing is visible yet.
+The long-term tendency is Graphics Programming, even when nothing is visible yet.
 
 # Core Projects
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes, maybe easter-eggs too
