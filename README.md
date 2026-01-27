@@ -1,14 +1,14 @@
-The main topic is Graphics-Programming.
+The long-term tendency is Graphics Programming, even when nothing is visible yet.
 
 # Core Projects
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes, maybe easter-eggs too
-- [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer ( *start* shifted, other priorities)
+- [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer ( TBD, other priorities)
 
-**Toolchain**: `C` (not decided yet what more)
+**Toolchain**: `C` (more TBD)
 
 # Focus Areas
-- Terminal Visualisation / Graphics (rapid Prototypes)
-- Linux DRM/KMS(trial), then SDL3
+- Terminal Visualisation / Graphics (rapid prototypes)
+- Linux DRM/KMS (PoC), then SDL3
 
 # Journey
 ```diff
@@ -27,6 +27,9 @@ My **Focus Areas** should help me to show where I am.
 - Focused progress > scattered learning
 
 # Contact
+You can contact me, e.g., for help in a project.
+I’m likely open for collaboration requests.
+
 - Discord: Drominito1511
 - [E-Mail](mailto:drominito@proton.me)
 
