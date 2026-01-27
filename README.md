@@ -1,10 +1,10 @@
-The long-term tendency is Graphics Programming, even when nothing is visible yet.
+⁸The long-term tendency is Graphics Programming, even when nothing is visible yet.
 
 # Core Projects
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes, maybe easter-eggs too
 - [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer ( TBD, other priorities)
 
-**Toolchain**: `C` (more TBD)
+**Toolchain**: `C` (more TBD - if you insist look older commits)
 
 # Focus Areas
 - Terminal Visualisation / Graphics (rapid prototypes)
