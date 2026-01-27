@@ -4,7 +4,8 @@
 - [playGround](https://github.com/Drominito/playGround) - Experimental prototypes, maybe easter-eggs too
 - [Software-Rasterizer](https://github.com/Drominito/Drominito) - CPU-Renderer ( TBD, other priorities)
 
-**Toolchain**: `C` (more TBD - if you insist look older commits)
+**Toolchain**: `C`
+(more TBD - if you insist look older commits)
 
 # Focus Areas
 - Terminal Visualisation / Graphics (rapid prototypes)
